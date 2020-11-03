@@ -41,7 +41,7 @@ The following technologies were used in the development of the project:
 
 ## Installation and use
 
-To run the application, you need to have [Node] (https://nodejs.org/en/) installed on your machine and follow the steps below:
+To run the application, you need to have [Node](https://nodejs.org/en/) installed on your machine and follow the steps below:
 
 1) Open a terminal and copy this repository with the command
     ```
@@ -51,7 +51,7 @@ To run the application, you need to have [Node] (https://nodejs.org/en/) install
 
 2) Enter the folder with
     ```
-    cd casa-criativa
+    cd CasaCriativa
     ```
 
 3) Install the dependencies
