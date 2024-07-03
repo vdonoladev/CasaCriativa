@@ -3,16 +3,16 @@
 </h1>
 
 <h2 align="center">
-  Registration system of ideas to make the moment
-   <br>
-  of confinement by Covid-19 more interesting
+  Sistema de registro de ideias para tornar o momento
+<br>
+  de confinamento pela Covid-19 mais interessante
 </h2>
 
 ---
 
-## Technologies
+## Tecnologias
 
-The following technologies were used in the development of the project:
+As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
 - [HTML](https://devdocs.io/html/)
 - [CSS](https://devdocs.io/css/)
@@ -31,7 +31,7 @@ The following technologies were used in the development of the project:
 
 ---
 
-## Screens
+## Telas
 
 ![](https://user-images.githubusercontent.com/56196766/98021803-84ef7780-1de3-11eb-856e-c85692a7ba75.png)
 ![](https://user-images.githubusercontent.com/56196766/98021882-a18baf80-1de3-11eb-8d5b-942f6dcbf0e0.png)
@@ -39,35 +39,35 @@ The following technologies were used in the development of the project:
 
 ---
 
-## Installation and use
+## Instalação e uso
 
-To run the application, you need to have [Node](https://nodejs.org/en/) installed on your machine and follow the steps below:
+Para executar o aplicativo, você precisa ter o [Node](https://nodejs.org/en/) instalado em sua máquina e seguir os passos abaixo:
 
-1) Open a terminal and copy this repository with the command
+1) Abra um terminal e copie este repositório com o comando
     ```
     git clone https://github.com/vdonoladev/CasaCriativa.git
     ```
-    or use the download option.
+    ou use a opção de download.
 
-2) Enter the folder with
+2) Entre na pasta com
     ```
     cd CasaCriativa
     ```
 
-3) Install the dependencies
+3) Instale as dependências
     ```
     npm install
     ```
 
-4) Run the application:
+4) Execute a aplicação:
     ```
     npm start
     ```
 
-5) Access ```http://localhost:3000``` in your browser.
+5) Acesse ```http://localhost:3000``` no seu navegador.
 
 ---
 
-## :memo: License
+## :memo: Licença
 
-This project is under the MIT license. See the file [LICENSE](/LICENSE) for more details.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
