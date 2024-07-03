@@ -20,7 +20,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 - [Node.JS](https://nodejs.org/en/)
 - [SQLite3](https://www.sqlite.org/index.html)
 
-## Dependencies
+## Dependências
 
 <ul>
   <li> <strong> Express </strong> </li>
