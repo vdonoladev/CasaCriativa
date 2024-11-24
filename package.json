@@ -20,7 +20,7 @@
   "homepage": "https://github.com/vdonoladev/CasaCriativa#readme",
   "dependencies": {
     "express": "^4.19.2",
-    "nodemon": "^3.1.4",
+    "nodemon": "^3.1.7",
     "nunjucks": "^3.2.4",
     "sqlite3": "^5.1.6"
   }
